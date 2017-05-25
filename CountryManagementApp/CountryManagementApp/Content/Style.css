@@ -1,0 +1,25 @@
+﻿body {
+     bgcolor:#F6F6F6;
+}
+.MarginBody {
+    margin: 0px 200px 0px 200px;
+}
+.city {
+    margin: 0px 150px 0px 150px; 
+}
+.margin100px {
+    margin: 0px 100px 0px 100px;
+    width: 502px;
+}
+.margin80px {
+    margin: 0px 80px 0px 80px;
+}
+.citySearce {
+    text-align: center;  
+}
+.whiteFieldset {
+    background-color:#F5FFFA;
+}
+.Align_Center {
+    text-align: center;
+}

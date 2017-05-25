@@ -1,0 +1,42 @@
+﻿body {
+     bgcolor:#F6F6F6;
+    background: url('../images/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.MarginBody {
+    margin: 0px 200px 0px 200px;
+}
+.city {
+    margin: 0px 150px 0px 150px; 
+}
+.margin100px {
+    margin: 0px 100px 0px 100px;
+    width: 502px;
+}
+.margin80px {
+    margin: 0px 80px 0px 80px;
+}
+.citySearce {
+    text-align: center;  
+}
+.whiteFieldset {
+    background-color:#F5FFFA;
+}
+.Align_Center {
+    text-align: center;
+}
+.Align_Left {
+    text-align: left;
+    margin: 0px 400px 0px 400px;
+    background-color: #C6C6C6;
+}
+footer p {
+    text-align: center;
+}
+.whiteColor {
+    color: white;
+}
